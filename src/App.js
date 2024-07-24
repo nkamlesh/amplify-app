@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h1>Hello from V3 deployed via Amplify</h1>
+        <h1>Hello from V4 deployed via Amplify</h1>
       </header>
     </div>
   );
